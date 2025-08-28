@@ -1,4 +1,4 @@
-# Emily E Oor | Neuroscientist <br> → → →   Data Science | Data Analytics
+# Emily E Oor | Neuroscientist <br> →   Data Science | Data Analytics
 
 Welcome! I’m a cognitive neuroscientist transitioning into data science and analytics. My background includes advanced statistical modeling, automation, and clear scientific communication, developed through graduate and postdoctoral research and teaching.
 
@@ -22,16 +22,13 @@ Welcome! I’m a cognitive neuroscientist transitioning into data science and an
 
 ## Projects
 
-- **Behavioral Time-Series Modeling:** Used custom models (MATLAB) to analyze decision accuracy over time. [Publication](https://www.cell.com/iscience/pdf/S2589-0042(23)00330-9.pdf)
-<p align="center">
-  <img src=/assets/Fig4.png width="500">
-</p>
 - **Automated EEG Analysis:** Developed pipelines reducing manual effort by ~50%.
-- **Conditional Probability Analysis:** Explored interactive effects in decision-making with statistical tools. [Publication](https://elifesciences.org/articles/100280.pdf)
-<p align="center">
-  <img src=/assets/Fig7.png width="600">
-</p>
 - **R Programming Instruction:** Taught hands-on labs for undergraduates.
+- **Behavioral Time-Series Modeling:** Used custom models (MATLAB) to analyze decision accuracy over time. [Publication](https://www.cell.com/iscience/pdf/S2589-0042(23)00330-9.pdf)
+  ![See Figure 4](/assets/Fig4_2.png)
+- **Conditional Probability Analysis:** Explored interactive effects in decision-making with statistical tools. [Publication](https://elifesciences.org/articles/100280.pdf)
+![See Figure 7](/assets/Fig7_2.png)
+
 
 ---
 
