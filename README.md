@@ -1,6 +1,8 @@
-# Emily E Oor | Neuroscientist <br> →   Data Science | Data Analytics
+# Neuroscientist <br> →   Data Science | Data Analytics
 
-Welcome! I’m a cognitive neuroscientist transitioning into data science and analytics. My background includes advanced statistical modeling, automation, and clear scientific communication, developed through graduate and postdoctoral research and teaching.
+---
+
+Welcome! I’m a cognitive neuroscientist transitioning into data science and analytics. My background includes advanced statistical modeling, automation, and clear scientific communication, developed through graduate and postdoctoral research and teaching.<br><br> *I’m seeking data analytics or data science roles where I can apply my quantitative expertise and passion for extracting insights from complex data.*
 
 ---
 
@@ -32,7 +34,7 @@ Welcome! I’m a cognitive neuroscientist transitioning into data science and an
 
 ---
 
-## Certification
+## Certifications
 
 - **Anaconda Python for Data Science Professional Certificate**
 
@@ -44,4 +46,4 @@ Welcome! I’m a cognitive neuroscientist transitioning into data science and an
 
 ---
 
-*I’m seeking data analytics or data science roles where I can apply my quantitative expertise and passion for extracting insights from complex data.*
+
