@@ -27,8 +27,8 @@ Welcome! I’m a cognitive neuroscientist transitioning into data science and an
 - **Fraud Detection on Bank Transactions:**
   - End-to-end machine-learning pipeline on synthetic banking data: cleaning → feature engineering → modeling → evaluation.
   - [Repository](https://github.com/emilyEoor/Fraud-detection-portfolio) · [Report](https://github.com/emilyEoor/Fraud-detection-portfolio/blob/main/Reports/REPORT.md) · [Notebooks](https://github.com/emilyEoor/Fraud-detection-portfolio/tree/main/Notebooks)
-    
-    ![ROC and PR curves](/assets/roc_pr_curves_small.png)
+
+ ![ROC and PR curves](/assets/roc_pr_curves_small.png)
 
 
 ---
