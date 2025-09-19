@@ -17,12 +17,23 @@ Welcome! I’m a cognitive neuroscientist transitioning into data science and an
 
 - **Programming:** MATLAB (advanced), Python (Anaconda Certified), R, SQL (self-taught)
 - **Tools:** Jupyter Notebooks, Visual Studio Code
-- **Methods:** Statistical modeling, time-series analysis, experimental design, data automation
+- **Methods:** Statistical modeling, time-series analysis, machine learning, experimental design, data automation
 - **Teaching:** Undergraduate courses in neuroscience, psychology, and R programming
 
 ---
 
 ## Projects
+
+- **Fraud Detection on Bank Transactions:**
+  - End-to-end machine-learning pipeline on synthetic banking data: cleaning → feature engineering → modeling → evaluation.
+  - [Repository](https://github.com/emilyEoor/Fraud-detection-portfolio) · [Report](https://github.com/emilyEoor/Fraud-detection-portfolio/blob/main/Reports/REPORT.md) · [Notebooks](https://github.com/emilyEoor/Fraud-detection-portfolio/tree/main/Notebooks)
+    
+    ![ROC and PR curves](/assets/roc_pr_curves_small.png)
+
+
+---
+
+## Relevant Academic Experience and Projects
 
 - **Automated EEG Analysis:** Developed pipelines reducing manual effort by ~50%.
 - **R Programming Instruction:** Taught hands-on labs for undergraduates.
