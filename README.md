@@ -2,7 +2,7 @@
 
 ---
 
-Welcome! I’m a cognitive neuroscientist transitioning into data science and analytics. My background includes advanced statistical modeling, automation, and clear scientific communication, developed through graduate and postdoctoral research and teaching.<br><br> *I’m seeking data analytics or data science roles where I can apply my quantitative expertise and passion for extracting insights from complex data.*
+Welcome! I’m a cognitive neuroscientist transitioning into analytical roles. My background includes advanced statistical modeling, automation, and clear scientific communication, developed through graduate and postdoctoral research and teaching.<br><br> *I’m seeking opportunities where I can apply my quantitative expertise and passion for extracting insights from complex data.*
 
 ---
 
