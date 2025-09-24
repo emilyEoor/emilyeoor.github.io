@@ -1,4 +1,4 @@
-# Neuroscientist <br> →   Data Science | Data Analytics
+# Neuroscientist <br> →   Research & Data-Focused Roles
 
 ---
 
