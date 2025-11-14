@@ -34,6 +34,7 @@ Welcome! I’m a cognitive neuroscientist transitioning into analytical roles. M
   - Interactive Tableau dashboard analyzing statewide traffic patterns using MnDOT data (weather, holidays, and hourly trends). Includes data cleaning and validation, exploratory analysis, and dashboard design for operational decision support.
   - [Repository](https://github.com/emilyEoor/MnDOT_Dashboard_Project) · [Report](https://github.com/emilyEoor/MnDOT_Dashboard_Project/blob/main/reports/MinnesotaDOTproject.pdf) · [Dashboard](https://public.tableau.com/views/TrafficPatterns_17619307813410/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![Traffic Volumes: Hours of the Day](/assets/Screenshot2025-11-14151533.png)
               
 
 ## Relevant Academic Experience and Projects
