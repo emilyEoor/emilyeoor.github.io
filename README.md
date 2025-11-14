@@ -15,9 +15,9 @@ Welcome! I’m a cognitive neuroscientist transitioning into analytical roles. M
 
 ## Technical Skills
 
-- **Programming:** MATLAB (advanced), Python (Anaconda Certified), R, SQL (self-taught)
-- **Tools:** Jupyter Notebooks, Visual Studio Code
-- **Methods:** Statistical modeling, time-series analysis, machine learning, experimental design, data automation
+- **Programming:** MATLAB (advanced), Python (Anaconda Certified), R, SQL 
+- **Tools:** Jupyter Notebooks, Visual Studio Code, Tableau Public, Microsoft Office Suite
+- **Methods:** statistical modeling, exploratory data analysis, time-series analysis, machine learning, experimental design, data automation
 - **Teaching:** Undergraduate courses in neuroscience, psychology, and R programming
 
 ---
@@ -30,8 +30,11 @@ Welcome! I’m a cognitive neuroscientist transitioning into analytical roles. M
 
  ![ROC and PR curves](/assets/roc_pr_curves_small.png)
 
+- **Minnesota Traffic Monitoring Dashboard:**
+  - Interactive Tableau dashboard analyzing statewide traffic patterns using MnDOT data (weather, holidays, and hourly trends). Includes data cleaning and validation, exploratory analysis, and dashboard design for operational decision support.
+  - [Repository](https://github.com/emilyEoor/MnDOT_Dashboard_Project) · [Report](https://github.com/emilyEoor/MnDOT_Dashboard_Project/blob/main/reports/MinnesotaDOTproject.pdf) · [Dashboard](https://public.tableau.com/views/TrafficPatterns_17619307813410/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
+              
 
 ## Relevant Academic Experience and Projects
 
@@ -47,6 +50,7 @@ Welcome! I’m a cognitive neuroscientist transitioning into analytical roles. M
 
 ## Certifications
 
+- **Google Business Intelligence Professional Certificate** - expected Novemeber 2025
 - **Anaconda Python for Data Science Professional Certificate**
 
 ---
